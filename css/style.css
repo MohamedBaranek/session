@@ -8,3 +8,6 @@ h2 {
     font-size: 30px;
     color: rgb(184, 238, 57);
 }
+span {
+    font-weight: bold;
+}
